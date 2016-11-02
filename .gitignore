@@ -2,3 +2,5 @@
 .idea/*
 *.swp
 *.pyc
+*.wpr
+*.wpu
