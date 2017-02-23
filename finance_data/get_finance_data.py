@@ -26,7 +26,7 @@ def get_stock_code(url):
 		#if len(name_code_group) > 0:
 			#print name_code_group[0][0], name_code_group[0][1]
 
-	name_code=re.co
+	name_code=re.
 
 # ----------------------------------------------------------------------
 def get_stock_data(url):
